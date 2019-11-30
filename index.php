@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         
-        <title>TODO supply a title</title>
+        <title>Informações climaticas</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script
@@ -19,6 +19,39 @@ and open the template in the editor.
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
  
   <script src="js/clima.js"></script>
+  <!-- Tags Gerais -->
+<meta NAME="DESCRIPTION" CONTENT="Site de informações climaticas de Brusque"/>
+<meta NAME="ABSTRACT" CONTENT="Informações sobre o clima"/>
+<meta name="keywords" content="clima, temperatura em brusque, tempo para brusque, mudando de clima em Brusque,
+      trocando de clima em brusque, velocidade do vento em brusque, velocidade da temperartura em brusque, aumentando umidade em brusque,
+      temperarura mínima em brusque,temperatura máxima em brusque, umidade para brusque, mudando de clima em brusque, velocidade de clima em brusque,
+      aquecendo o clima em Brusque, esfriando o clima em brusque,"/>
+<meta NAME="title" CONTENT="Informações climaticas" />
+<meta NAME="identifier-url" content="https://luiz-clima-senai.herokuapp.com" />
+<meta NAME="author" content="Luiz Guilherme" />
+<meta NAME="ROBOTS" CONTENT="All " />
+<meta NAME="RATING" CONTENT="general" />
+<meta NAME="DISTRIBUTION" CONTENT="global" />
+<meta NAME="LANGUAGE" CONTENT="pt-br" />
+<meta name="content-language" content="portuguese" />
+<meta name="doc-class" content="Completed" /> 
+<meta name="reply-to" content="luiz_gs_silva@estudante.sc.senai.br"/>
+   
+<!-- Tags Para rede social Facebook -->
+<meta property="og:url" content="https://luiz-clima-senai.herokuapp.com" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Informações climaticas" />
+<meta property="og:title" content="Informações climaticas" />
+<meta property="og:description" content="Site de informações climaticas de Brusque" />
+<meta property="og:image" content="https://luiz-clima-senai.herokuapp.com/img/icones/11n.png" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="120" />
+<meta property="fb:app_id" content="" />
+  <!-- Tags Para rede social Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Site de informações climaticas de Brusque" />
+<meta name="twitter:title" content="Informações climaticas" />
   
     </head>
     <body>
